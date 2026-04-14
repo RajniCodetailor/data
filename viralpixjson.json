@@ -59,15 +59,15 @@
         "isDaily": false
       },
       {
-        "itemId": "sldr002",
-        "title": "Neon Orange Drag Race Cinematic Portrait",
-        "description": "Ultra realistic cinematic drag race scene featuring a confident woman seated on a neon orange modified car in a wet, neon lit urban night environment with dramatic lighting and reflections.",
-        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve her exact facial features, facial geometry, skin tone, age, hair color, hair length, hair texture, body proportions, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the woman must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene on a wet neon-lit street with reflective asphalt, glowing signage, and drifting purple-blue smoke. A heavily modified drag car finished in vivid neon orange metallic paint dominates the scene, featuring a wide body kit, aggressive front splitter, exposed intercooler, and cool-toned underbody neon glow, with headlights on reflecting across the wet road. The woman is seated confidently on the front edge of the hood, legs angled slightly to one side, one hand resting behind her on the hood for balance while the other rests casually on her thigh; her posture is relaxed yet commanding, chin slightly raised, eyes locked directly into the camera. She wears a cropped racing-inspired jacket in leather or satin, slightly open, paired with high-waisted fitted shorts or a black mini skirt and sporty sneakers or ankle boots, styled bold, practical, and street-racing authentic with no glam elements. Lighting is high-contrast neon with strong rim light from signage and headlights, softened by mist for cinematic glow, captured from a slightly low waist-to-chest camera angle with shallow depth of field and ultra-photorealistic detail.",
+        "itemId": "sldr008",
+        "title": "Male Neon Orange Drag Racer Portrait",
+        "description": "Ultra realistic cinematic drag race scene featuring a confident man standing beside a neon orange modified car in a high contrast neon lit urban night environment with reflections and smoke.",
+        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve his exact facial features, facial geometry, skin tone, age, hairline, hairstyle, beard style if present, body build, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the man must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene on a wet neon-lit street with glowing signage, reflective asphalt, and rolling colored smoke that reinforces underground racing intensity. A heavily modified drag car finished in vivid neon orange metallic paint sits beside him, featuring wide tires, aggressive aero, visible performance upgrades, cool-toned underbody neon lighting, and glossy reflections of city lights across its bodywork. The man stands next to the front quarter panel in a strong power stance, feet planted shoulder-width apart, one hand resting firmly on the roofline or hood edge while the other hangs relaxed or rests at his hip; his chest is open, shoulders squared, and his gaze is calm, focused, and authoritative as he looks directly toward the camera. He wears a dark bomber jacket layered over a minimal shirt, paired with slim or tapered jeans and clean sneakers, maintaining a functional, confident street-racing look. Lighting is harder and more contrast-driven than the female version, with pronounced rim light defining his silhouette and jawline, captured from a slightly low chest-level camera angle in ultra-HD, photorealistic, cinematic realism.",
         "coinUse": 5,
-        "poster": "https://i.ibb.co/8ZWKN6M/sldr002-compressed.webp",
+        "poster": "https://i.ibb.co/ycdwV82D/slde008-compressed.webp",
         "titleImage": "",
         "category": "c4",
-        "keywords": "drag race, neon orange, cinematic, night, car, racing, urban, portrait, reflections, photorealistic",
+        "keywords": "drag race, male, neon orange, cinematic, night, car, racing, urban, portrait, power stance",
         "isNew": false,
         "isTrending": false,
         "isDaily": false
@@ -101,6 +101,20 @@
         "isDaily": false
       },
       {
+        "itemId": "sldr007",
+        "title": "Male Drag Racer Cinematic Portrait",
+        "description": "Ultra realistic cinematic drag race scene featuring a confident man seated on a modified car hood in a neon lit urban night environment with dramatic reflections and high-contrast lighting.",
+        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve his exact facial features, facial geometry, skin tone, age, hairline, hairstyle, beard style if present, body build, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the man must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene on a wet neon-lit street, filled with glowing signage, reflections on asphalt, and rolling colored smoke that adds underground racing tension. A heavily modified drag car dominates the scene, featuring wide tires, aggressive aero, visible performance upgrades, cool-toned underbody neon lighting, and deep metallic purple or black paint reflecting city lights, with subtle engine heat haze near the hood. The man is seated on the front edge of the hood with legs slightly apart, elbows resting loosely on his knees and hands relaxed, leaning forward just enough to project calm intimidation; his head tilts slightly downward while his eyes look up toward the camera. He wears a fitted bomber jacket in a dark tone over a minimal shirt, paired with slim or tapered jeans and clean sneakers, keeping the look functional, understated, and street-racing authentic. Lighting is harder and more contrast-heavy than the female version, with strong rim light shaping the shoulders and jawline, captured from a slightly low chest-level camera angle in ultra-HD, photorealistic, cinematic realism.",
+        "coinUse": 5,
+        "poster": "https://i.ibb.co/CKQNSYhv/slde007-compressed.webp",
+        "titleImage": "",
+        "category": "c4",
+        "keywords": "drag race, male, cinematic, night, car, racing, neon, portrait, urban, photorealistic",
+        "isNew": false,
+        "isTrending": false,
+        "isDaily": false
+      },
+      {
         "itemId": "sldr005",
         "title": "Neon Orange Hood Pose Drag Scene",
         "description": "Cinematic ultra realistic drag race scene featuring a confident woman seated on a neon orange modified car hood in a glowing wet street environment with dramatic reflections and smoke.",
@@ -129,29 +143,15 @@
         "isDaily": false
       },
       {
-        "itemId": "sldr007",
-        "title": "Male Drag Racer Cinematic Portrait",
-        "description": "Ultra realistic cinematic drag race scene featuring a confident man seated on a modified car hood in a neon lit urban night environment with dramatic reflections and high-contrast lighting.",
-        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve his exact facial features, facial geometry, skin tone, age, hairline, hairstyle, beard style if present, body build, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the man must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene on a wet neon-lit street, filled with glowing signage, reflections on asphalt, and rolling colored smoke that adds underground racing tension. A heavily modified drag car dominates the scene, featuring wide tires, aggressive aero, visible performance upgrades, cool-toned underbody neon lighting, and deep metallic purple or black paint reflecting city lights, with subtle engine heat haze near the hood. The man is seated on the front edge of the hood with legs slightly apart, elbows resting loosely on his knees and hands relaxed, leaning forward just enough to project calm intimidation; his head tilts slightly downward while his eyes look up toward the camera. He wears a fitted bomber jacket in a dark tone over a minimal shirt, paired with slim or tapered jeans and clean sneakers, keeping the look functional, understated, and street-racing authentic. Lighting is harder and more contrast-heavy than the female version, with strong rim light shaping the shoulders and jawline, captured from a slightly low chest-level camera angle in ultra-HD, photorealistic, cinematic realism.",
+        "itemId": "sldr002",
+        "title": "Neon Orange Drag Race Cinematic Portrait",
+        "description": "Ultra realistic cinematic drag race scene featuring a confident woman seated on a neon orange modified car in a wet, neon lit urban night environment with dramatic lighting and reflections.",
+        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve her exact facial features, facial geometry, skin tone, age, hair color, hair length, hair texture, body proportions, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the woman must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene on a wet neon-lit street with reflective asphalt, glowing signage, and drifting purple-blue smoke. A heavily modified drag car finished in vivid neon orange metallic paint dominates the scene, featuring a wide body kit, aggressive front splitter, exposed intercooler, and cool-toned underbody neon glow, with headlights on reflecting across the wet road. The woman is seated confidently on the front edge of the hood, legs angled slightly to one side, one hand resting behind her on the hood for balance while the other rests casually on her thigh; her posture is relaxed yet commanding, chin slightly raised, eyes locked directly into the camera. She wears a cropped racing-inspired jacket in leather or satin, slightly open, paired with high-waisted fitted shorts or a black mini skirt and sporty sneakers or ankle boots, styled bold, practical, and street-racing authentic with no glam elements. Lighting is high-contrast neon with strong rim light from signage and headlights, softened by mist for cinematic glow, captured from a slightly low waist-to-chest camera angle with shallow depth of field and ultra-photorealistic detail.",
         "coinUse": 5,
-        "poster": "https://i.ibb.co/CKQNSYhv/slde007-compressed.webp",
+        "poster": "https://i.ibb.co/8ZWKN6M/sldr002-compressed.webp",
         "titleImage": "",
         "category": "c4",
-        "keywords": "drag race, male, cinematic, night, car, racing, neon, portrait, urban, photorealistic",
-        "isNew": false,
-        "isTrending": false,
-        "isDaily": false
-      },
-      {
-        "itemId": "sldr008",
-        "title": "Male Neon Orange Drag Racer Portrait",
-        "description": "Ultra realistic cinematic drag race scene featuring a confident man standing beside a neon orange modified car in a high contrast neon lit urban night environment with reflections and smoke.",
-        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve his exact facial features, facial geometry, skin tone, age, hairline, hairstyle, beard style if present, body build, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the man must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene on a wet neon-lit street with glowing signage, reflective asphalt, and rolling colored smoke that reinforces underground racing intensity. A heavily modified drag car finished in vivid neon orange metallic paint sits beside him, featuring wide tires, aggressive aero, visible performance upgrades, cool-toned underbody neon lighting, and glossy reflections of city lights across its bodywork. The man stands next to the front quarter panel in a strong power stance, feet planted shoulder-width apart, one hand resting firmly on the roofline or hood edge while the other hangs relaxed or rests at his hip; his chest is open, shoulders squared, and his gaze is calm, focused, and authoritative as he looks directly toward the camera. He wears a dark bomber jacket layered over a minimal shirt, paired with slim or tapered jeans and clean sneakers, maintaining a functional, confident street-racing look. Lighting is harder and more contrast-driven than the female version, with pronounced rim light defining his silhouette and jawline, captured from a slightly low chest-level camera angle in ultra-HD, photorealistic, cinematic realism.",
-        "coinUse": 5,
-        "poster": "https://i.ibb.co/ycdwV82D/slde008-compressed.webp",
-        "titleImage": "",
-        "category": "c4",
-        "keywords": "drag race, male, neon orange, cinematic, night, car, racing, urban, portrait, power stance",
+        "keywords": "drag race, neon orange, cinematic, night, car, racing, urban, portrait, reflections, photorealistic",
         "isNew": false,
         "isTrending": false,
         "isDaily": false
@@ -213,6 +213,20 @@
         "isDaily": false
       },
       {
+        "itemId": "et005",
+        "title": "Vintage Easter Garden Portrait – Fairy Tale Studio",
+        "description": "A whimsical vintage inspired Easter studio portrait set in a dreamy pastel garden environment with soft lighting, fairy tale elements, and elegant retro styling.",
+        "prompt": "Use the uploaded selfie as the ONLY identity reference for the subject. Preserve exact facial features, proportions, skin tone, and recognizable likeness. Hair color and length must match exactly with no changes. Style hair into 1950s Hollywood curls with voluminous waves while maintaining original length. Scene: stylized studio designed as a whimsical Easter fairy-tale garden. Background is soft pink/dusty rose with a large circular cream/ivory halo element behind the subject. Floor covered in artificial green grass with scattered pastel Easter eggs (pink, blue, yellow, green), small pink and white flowers, and a few decorative mushroom props. Subject wears a soft pink fitted mini dress with short or cap sleeves and a scoop neckline, paired with a white and soft pink bunny ear headband. Pose: kneeling on the grass, seated back on heels, body angled in a relaxed 3/4 view, upper body turned toward camera, one arm resting on thigh, the other hand lightly touching the grass. Head slightly tilted, face in soft 3/4 angle, warm gentle closed-lip smile with direct eye contact. Composition: vertical 9:16, full-body framing from bunny ears to knees, subject centered with circular halo behind the head, grass and props filling lower frame. Lighting: warm soft dreamy lighting with subtle glow from the circular backdrop creating a halo effect, soft diffused key light from front-right, luminous skin tones, fairy-tale pastel color palette with pink, green, and cream tones. No text, no logos, no watermark, no distortion, no extra limbs, no blur, no real outdoor setting.",
+        "coinUse": 5,
+        "poster": "https://i.ibb.co/bM45sJR8/et005-compressed.webp",
+        "titleImage": "",
+        "category": "c2",
+        "keywords": "easter, vintage, fairy tale, garden, studio, pastel, 1950s, whimsical, portrait, dreamy",
+        "isNew": false,
+        "isTrending": false,
+        "isDaily": false
+      },
+      {
         "itemId": "et003",
         "title": "Enchanted Forest Easter Portrait – Golden Hour",
         "description": "A dreamy, photorealistic Easter portrait set in a magical forest with golden sunlight, lush greenery, and playful storytelling composition.",
@@ -236,20 +250,6 @@
         "titleImage": "",
         "category": "c2",
         "keywords": "easter, haute couture, fashion, lace, bunny mask, editorial, studio, white, elegant, portrait",
-        "isNew": false,
-        "isTrending": false,
-        "isDaily": false
-      },
-      {
-        "itemId": "et005",
-        "title": "Vintage Easter Garden Portrait – Fairy Tale Studio",
-        "description": "A whimsical vintage inspired Easter studio portrait set in a dreamy pastel garden environment with soft lighting, fairy tale elements, and elegant retro styling.",
-        "prompt": "Use the uploaded selfie as the ONLY identity reference for the subject. Preserve exact facial features, proportions, skin tone, and recognizable likeness. Hair color and length must match exactly with no changes. Style hair into 1950s Hollywood curls with voluminous waves while maintaining original length. Scene: stylized studio designed as a whimsical Easter fairy-tale garden. Background is soft pink/dusty rose with a large circular cream/ivory halo element behind the subject. Floor covered in artificial green grass with scattered pastel Easter eggs (pink, blue, yellow, green), small pink and white flowers, and a few decorative mushroom props. Subject wears a soft pink fitted mini dress with short or cap sleeves and a scoop neckline, paired with a white and soft pink bunny ear headband. Pose: kneeling on the grass, seated back on heels, body angled in a relaxed 3/4 view, upper body turned toward camera, one arm resting on thigh, the other hand lightly touching the grass. Head slightly tilted, face in soft 3/4 angle, warm gentle closed-lip smile with direct eye contact. Composition: vertical 9:16, full-body framing from bunny ears to knees, subject centered with circular halo behind the head, grass and props filling lower frame. Lighting: warm soft dreamy lighting with subtle glow from the circular backdrop creating a halo effect, soft diffused key light from front-right, luminous skin tones, fairy-tale pastel color palette with pink, green, and cream tones. No text, no logos, no watermark, no distortion, no extra limbs, no blur, no real outdoor setting.",
-        "coinUse": 5,
-        "poster": "https://i.ibb.co/bM45sJR8/et005-compressed.webp",
-        "titleImage": "",
-        "category": "c2",
-        "keywords": "easter, vintage, fairy tale, garden, studio, pastel, 1950s, whimsical, portrait, dreamy",
         "isNew": false,
         "isTrending": false,
         "isDaily": false
@@ -591,20 +591,6 @@
         "isDaily": false
       },
       {
-        "itemId": "cctr002",
-        "title": "Luxury Boss Caricature",
-        "description": "Glamorous luxury boss caricature illustration with a confident, high status vibe.",
-        "prompt": "🎨 MAIN PROMPT (WORKS FOR BOTH WOMEN & MEN)\n\nTransform the person in the uploaded photo into a glamorous luxury boss caricature illustration with a playful, confident, high-status vibe. Keep the person clearly recognizable, preserving facial structure, skin tone, and likeness, but stylize them into a soft, high-quality caricature with smooth skin, slightly exaggerated eyes and facial features, and a confident, relaxed smile.\n\nDress the person in a fashionable, high-end boss outfit that feels luxurious and stylish (tailored blazer, chic top or shirt, polished grooming). The look should feel premium and fun rather than aggressive or corporate.\n\nAccessory rules (IMPORTANT):\n– If the person is female, include elegant luxury accessories such as a designer handbag, necklace, bracelet, earrings, or other refined jewelry that enhances the glamorous boss vibe.\n– If the person is male, do not include handbags, necklaces, bracelets, or jewelry. Limit accessories to masculine, professional items only, such as a watch, briefcase, laptop, smartphone, or notebook.\n\nPlace the person in a cozy, stylish office or personal success space filled with glamorous lifestyle objects everywhere in the scene: stacks of cash, perfume or cologne bottles, watches, designer bags or briefcases (gender-appropriate), luxury accessories, coffee cups, books, smartphone, laptop, notebooks, and subtle gold accents scattered naturally around them. The environment should feel busy, colorful, and lively, not dark, cold, or minimalist.\n\nUse bright, warm colors, soft lighting, clean outlines, and a modern cartoon-illustration style that feels cute, confident, aspirational, and rich, rather than serious or intimidating. The overall mood should feel joyful, stylish, and powerful — like a luxury boss enjoying their success.",
-        "coinUse": 5,
-        "poster": "https://i.ibb.co/F4Hnct9t/cctr002-compressed.webp",
-        "titleImage": "",
-        "category": "c3",
-        "keywords": "caricature, boss, luxury, glamorous, illustration, confident, stylish, cartoon, premium, success",
-        "isNew": false,
-        "isTrending": false,
-        "isDaily": false
-      },
-      {
         "itemId": "cctr003",
         "title": "CEO Caricature Illustration",
         "description": "Premium modern CEO style caricature illustration with a confident and aspirational vibe.",
@@ -768,6 +754,20 @@
         "titleImage": "",
         "category": "c3",
         "keywords": "caricature, pet lover, pets, animal, illustration, cozy, lifestyle, cute, cartoon, joyful",
+        "isNew": false,
+        "isTrending": false,
+        "isDaily": false
+      },
+      {
+        "itemId": "cctr002",
+        "title": "Luxury Boss Caricature",
+        "description": "Glamorous luxury boss caricature illustration with a confident, high status vibe.",
+        "prompt": "🎨 MAIN PROMPT (WORKS FOR BOTH WOMEN & MEN)\n\nTransform the person in the uploaded photo into a glamorous luxury boss caricature illustration with a playful, confident, high-status vibe. Keep the person clearly recognizable, preserving facial structure, skin tone, and likeness, but stylize them into a soft, high-quality caricature with smooth skin, slightly exaggerated eyes and facial features, and a confident, relaxed smile.\n\nDress the person in a fashionable, high-end boss outfit that feels luxurious and stylish (tailored blazer, chic top or shirt, polished grooming). The look should feel premium and fun rather than aggressive or corporate.\n\nAccessory rules (IMPORTANT):\n– If the person is female, include elegant luxury accessories such as a designer handbag, necklace, bracelet, earrings, or other refined jewelry that enhances the glamorous boss vibe.\n– If the person is male, do not include handbags, necklaces, bracelets, or jewelry. Limit accessories to masculine, professional items only, such as a watch, briefcase, laptop, smartphone, or notebook.\n\nPlace the person in a cozy, stylish office or personal success space filled with glamorous lifestyle objects everywhere in the scene: stacks of cash, perfume or cologne bottles, watches, designer bags or briefcases (gender-appropriate), luxury accessories, coffee cups, books, smartphone, laptop, notebooks, and subtle gold accents scattered naturally around them. The environment should feel busy, colorful, and lively, not dark, cold, or minimalist.\n\nUse bright, warm colors, soft lighting, clean outlines, and a modern cartoon-illustration style that feels cute, confident, aspirational, and rich, rather than serious or intimidating. The overall mood should feel joyful, stylish, and powerful — like a luxury boss enjoying their success.",
+        "coinUse": 5,
+        "poster": "https://i.ibb.co/F4Hnct9t/cctr002-compressed.webp",
+        "titleImage": "",
+        "category": "c3",
+        "keywords": "caricature, boss, luxury, glamorous, illustration, confident, stylish, cartoon, premium, success",
         "isNew": false,
         "isTrending": false,
         "isDaily": false
