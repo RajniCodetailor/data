@@ -45,20 +45,6 @@
     ],
     "items": [
       {
-  "itemId": "dly002",
-  "title": "Sunlit Minimal Glam Portrait",
-  "description": "Create a premium beauty editorial close-up with warm sunlit glow and modern minimal styling while preserving identity perfectly. This prompt highlights natural skin texture, confident elegance, and clean high-end fashion aesthetics.",
-  "prompt": "Use the uploaded photo as the exact face reference, preserve identity 100%, same facial structure, eyes, nose, lips, skin tone and proportions, no changes. Beauty fashion portrait in aesthetic sunlit glow / modern minimal glam / warm editorial. Warm, sensual, confident woman with natural appeal. Close-up (crop to chest). Accent on eyes, cheekbones, and skin texture. Neutral light background. Minimalism without unnecessary details. Model leans her head on her hand, creating a soft diagonal in the frame. Head slightly tilted to the side. One hand supports the head. Eyes looking directly at the camera - deep, calm, magnetic. Lips relaxed, naturally closed. Soft but confident pose. Hair loose, light natural texture. Part of the hair tucked behind the ear, part falling freely along the face. Soft side or slightly offset parting. Natural styling. Tight-fitting long-sleeve in a bright orange shade. Smooth fabric. Minimalist gold hoop earrings. Modern minimalism with a bright color accent. Glow editorial makeup: warm blending on eyes, emphasized lashes, light face sculpting, pronounced highlighter on cheekbones, nude lips with a soft satin finish. Warm directional light. Soft shadows. Light emphasizes skin glow, cheekbone volume, and fabric texture. Moderate contrast, sunny, editorial-level. Clean warm color correction. Accent on skin glow, orange saturation, and natural texture. Without aggressive retouching. Premium beauty campaign finish.",
-  "coinUse": 5,
-  "poster": "https://ai-versions-app-tribe.b-cdn.net/dailyShot/n002.jpg",
-  "titleImage": "",
-  "category": "",
-  "keywords": "beauty portrait, sunlit glow, minimal glam, warm tones, close up, editorial makeup, orange outfit, natural skin texture, confident pose, modern fashion, photorealistic, premium beauty",
-  "isNew": false,
-  "isTrending": false,
-  "isDaily": true
-},
-      {
         "itemId": "sldr001",
         "title": "Neon Drag Race Cinematic Portrait",
         "description": "Ultra realistic cinematic night scene featuring a confident woman beside a modified neon lit drag car on a wet urban street with dramatic lighting and smoke effects.",
