@@ -87,20 +87,6 @@
         "isDaily": false
       },
       {
-        "itemId": "sldr004",
-        "title": "Purple Neon Drag Race Cinematic Portrait",
-        "description": "Ultra realistic cinematic drag race scene featuring a confident woman beside a deep metallic purple modified car in a neon lit wet street with dramatic reflections and atmospheric smoke.",
-        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve her exact facial features, facial geometry, skin tone, age, hair color, hair length, hair texture, body proportions, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the woman must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene on a wet neon-lit street, with reflective asphalt, glowing street signs, and dense purple-blue smoke drifting around a heavily modified drag car. The car is parked at a slight angle toward the camera, featuring a wide body kit, exposed intercooler, aggressive front splitter, and cool-toned underbody neon glow, finished in deep metallic purple paint with glossy reflections and headlights on. The woman stands beside the front fender in a three-quarter angle toward the camera, one hip subtly shifted, one hand resting on the hood edge while the other arm hangs naturally by her side; her chin is slightly raised and her gaze is locked confidently into the camera. She wears a cropped racing-inspired jacket in leather or satin, slightly open, paired with high-waisted fitted shorts or a black mini skirt and sporty sneakers or ankle boots, styled bold and practical with no glam elements. Lighting is high-contrast neon with rim light from the headlights and signage, softened by mist for cinematic glow, captured from a slightly low waist-to-chest camera angle with shallow depth of field and ultra-photorealistic detail.",
-        "coinUse": 5,
-        "poster": "https://i.ibb.co/Q7kRHRW7/sldr004-compressed.webp",
-        "titleImage": "",
-        "category": "c4",
-        "keywords": "drag race, purple, neon, cinematic, night, car, racing, urban, portrait, metallic",
-        "isNew": false,
-        "isTrending": false,
-        "isDaily": false
-      },
-      {
         "itemId": "sldr007",
         "title": "Male Drag Racer Cinematic Portrait",
         "description": "Ultra realistic cinematic drag race scene featuring a confident man seated on a modified car hood in a neon lit urban night environment with dramatic reflections and high-contrast lighting.",
@@ -110,6 +96,20 @@
         "titleImage": "",
         "category": "c4",
         "keywords": "drag race, male, cinematic, night, car, racing, neon, portrait, urban, photorealistic",
+        "isNew": false,
+        "isTrending": false,
+        "isDaily": false
+      },
+      {
+        "itemId": "sldr004",
+        "title": "Purple Neon Drag Race Cinematic Portrait",
+        "description": "Ultra realistic cinematic drag race scene featuring a confident woman beside a deep metallic purple modified car in a neon lit wet street with dramatic reflections and atmospheric smoke.",
+        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve her exact facial features, facial geometry, skin tone, age, hair color, hair length, hair texture, body proportions, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the woman must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene on a wet neon-lit street, with reflective asphalt, glowing street signs, and dense purple-blue smoke drifting around a heavily modified drag car. The car is parked at a slight angle toward the camera, featuring a wide body kit, exposed intercooler, aggressive front splitter, and cool-toned underbody neon glow, finished in deep metallic purple paint with glossy reflections and headlights on. The woman stands beside the front fender in a three-quarter angle toward the camera, one hip subtly shifted, one hand resting on the hood edge while the other arm hangs naturally by her side; her chin is slightly raised and her gaze is locked confidently into the camera. She wears a cropped racing-inspired jacket in leather or satin, slightly open, paired with high-waisted fitted shorts or a black mini skirt and sporty sneakers or ankle boots, styled bold and practical with no glam elements. Lighting is high-contrast neon with rim light from the headlights and signage, softened by mist for cinematic glow, captured from a slightly low waist-to-chest camera angle with shallow depth of field and ultra-photorealistic detail.",
+        "coinUse": 5,
+        "poster": "https://i.ibb.co/Q7kRHRW7/sldr004-compressed.webp",
+        "titleImage": "",
+        "category": "c4",
+        "keywords": "drag race, purple, neon, cinematic, night, car, racing, urban, portrait, metallic",
         "isNew": false,
         "isTrending": false,
         "isDaily": false
@@ -129,20 +129,6 @@
         "isDaily": false
       },
       {
-        "itemId": "sldr006",
-        "title": "Rear Angle Neon Drag Scene",
-        "description": "Ultra realistic cinematic rear view drag race scene featuring a confident woman leaning against a modified car in a neon lit wet street with glowing reflections and atmospheric smoke.",
-        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve her exact facial features, facial geometry, skin tone, age, hair color, hair length, hair texture, body proportions, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the woman must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene viewed from behind a heavily modified drag car, with the rear bumper, taillights, diffuser, and wide tires dominating the foreground. The car is finished in glossy white or light gray paint, reflecting neon street signage and wet asphalt, with subtle underbody glow illuminating the ground and drifting colored smoke surrounding the rear. The woman is leaning confidently against the rear quarter panel, one shoulder and hip resting into the car, one leg slightly bent, arms relaxed, and posture calm yet assertive; her head turns slightly toward the camera, eyes locked with a composed, confident expression. She wears a cropped racing-inspired jacket in leather or satin, slightly open, paired with high-waisted fitted shorts or a black mini skirt and sporty sneakers or ankle boots, styled bold, functional, and street-racing authentic. Lighting is neon-heavy with strong reflections from the taillights and street signs, softened by mist, captured from a low rear-angle camera perspective with shallow depth of field and ultra-photorealistic detail.",
-        "coinUse": 5,
-        "poster": "https://i.ibb.co/zT4rZBNV/sldr006-compressed.webp",
-        "titleImage": "",
-        "category": "c4",
-        "keywords": "drag race, rear angle, neon, cinematic, night, car, racing, reflections, smoke, portrait",
-        "isNew": false,
-        "isTrending": false,
-        "isDaily": false
-      },
-      {
         "itemId": "sldr002",
         "title": "Neon Orange Drag Race Cinematic Portrait",
         "description": "Ultra realistic cinematic drag race scene featuring a confident woman seated on a neon orange modified car in a wet, neon lit urban night environment with dramatic lighting and reflections.",
@@ -152,6 +138,20 @@
         "titleImage": "",
         "category": "c4",
         "keywords": "drag race, neon orange, cinematic, night, car, racing, urban, portrait, reflections, photorealistic",
+        "isNew": false,
+        "isTrending": false,
+        "isDaily": false
+      },
+      {
+        "itemId": "sldr006",
+        "title": "Rear Angle Neon Drag Scene",
+        "description": "Ultra realistic cinematic rear view drag race scene featuring a confident woman leaning against a modified car in a neon lit wet street with glowing reflections and atmospheric smoke.",
+        "prompt": "Use the uploaded reference person as the ONLY identity source and preserve her exact facial features, facial geometry, skin tone, age, hair color, hair length, hair texture, body proportions, and natural expression with zero identity drift; no beautification, no face reshaping, no stylization, no age or gender change — the woman must remain fully recognizable and clearly the same individual. Create a cinematic nighttime urban drag-race scene viewed from behind a heavily modified drag car, with the rear bumper, taillights, diffuser, and wide tires dominating the foreground. The car is finished in glossy white or light gray paint, reflecting neon street signage and wet asphalt, with subtle underbody glow illuminating the ground and drifting colored smoke surrounding the rear. The woman is leaning confidently against the rear quarter panel, one shoulder and hip resting into the car, one leg slightly bent, arms relaxed, and posture calm yet assertive; her head turns slightly toward the camera, eyes locked with a composed, confident expression. She wears a cropped racing-inspired jacket in leather or satin, slightly open, paired with high-waisted fitted shorts or a black mini skirt and sporty sneakers or ankle boots, styled bold, functional, and street-racing authentic. Lighting is neon-heavy with strong reflections from the taillights and street signs, softened by mist, captured from a low rear-angle camera perspective with shallow depth of field and ultra-photorealistic detail.",
+        "coinUse": 5,
+        "poster": "https://i.ibb.co/zT4rZBNV/sldr006-compressed.webp",
+        "titleImage": "",
+        "category": "c4",
+        "keywords": "drag race, rear angle, neon, cinematic, night, car, racing, reflections, smoke, portrait",
         "isNew": false,
         "isTrending": false,
         "isDaily": false
@@ -199,6 +199,34 @@
         "isDaily": false
       },
       {
+        "itemId": "et007",
+        "title": "Haute Couture Bunny Portrait – Minimal White Editorial",
+        "description": "A modern high fashion Easter portrait with a clean minimalist studio aesthetic, featuring couture styling, a lace bunny mask, and an intimate editorial mood.",
+        "prompt": "Use the uploaded selfie as the ONLY identity reference for the subject. Preserve exact facial features, proportions, skin tone, and recognizable likeness. Hair color and length must match exactly with no changes. Style hair into a sleek low bun at the nape while maintaining original length. Scene: clean minimal studio with a soft neutral light grey seamless background, no props or distractions. Subject wears a white structured corset-style satin top with wide straps and visible boning, paired with long white satin opera gloves with subtle feather trim at the wrists. Accessory: a delicate white floral lace bunny mask covering the upper face with semi-transparent lace bunny ears. Pose: close-up framing from top of ears to mid-chest, body angled slightly right. Both gloved hands gently cradle a white rabbit close to the face. Head tilted slightly downward toward the rabbit as if about to nuzzle it, eyes softly closed or looking down, lips relaxed for a serene intimate expression. Composition: vertical 9:16, subject slightly right of center, rabbit near the left side close to the face, shallow depth of field keeping face and rabbit sharp with blurred background. Lighting: high-key soft studio lighting with key light from front-right and fill from left, minimal shadows, monochromatic white/cream palette with natural skin tones providing contrast, crisp modern editorial quality. No text, no logos, no watermark, no distortion, no extra limbs, no blur, no color elements.",
+        "coinUse": 5,
+        "poster": "https://i.ibb.co/G49bWRy9/et007-compressed.webp",
+        "titleImage": "",
+        "category": "c2",
+        "keywords": "easter, haute couture, bunny, minimal, white, editorial, lace mask, fashion, portrait, modern",
+        "isNew": false,
+        "isTrending": false,
+        "isDaily": false
+      },
+      {
+        "itemId": "et004",
+        "title": "Haute Couture Easter Portrait – Lace Bunny Mask",
+        "description": "A high fashion Easter themed studio portrait featuring couture styling, a lace bunny mask, and a soft editorial aesthetic with a luxurious all white palette.",
+        "prompt": "Use the uploaded selfie as the ONLY identity reference for the subject. Preserve exact facial features, proportions, skin tone, and recognizable likeness. Hair color and length must match exactly with no changes. Style hair with natural curls/texture visible around the face and edges, with the bulk loosely pulled back while maintaining original length and texture. Scene: clean minimal studio with a soft neutral light grey seamless backdrop. Subject wears a white structured corset-style satin top with wide shoulder straps and visible boning, paired with long white satin opera gloves with feather trim at the wrists. Accessories include a white floral lace bunny mask covering the upper face with upright lace ears. Pose: medium close-up framing from bunny ears to mid-torso, subject facing camera straight or slight 3/4 angle. One gloved hand holds a small white rabbit close to the chest, the other supports it gently. Head straight, eyes looking directly into the camera through the lace mask with a composed, serene expression. Composition: vertical 9:16, subject centered, shallow depth of field with sharp focus on face and rabbit. Lighting: high-key soft studio lighting, clean bright tones, minimal shadows, modern editorial quality with a white-dominant palette and natural skin warmth. No text, no logos, no watermark, no distortion, no extra limbs, no blur, no color distractions.",
+        "coinUse": 5,
+        "poster": "https://i.ibb.co/p6b4rTWR/et004-compressed.webp",
+        "titleImage": "",
+        "category": "c2",
+        "keywords": "easter, haute couture, fashion, lace, bunny mask, editorial, studio, white, elegant, portrait",
+        "isNew": false,
+        "isTrending": false,
+        "isDaily": false
+      },
+      {
         "itemId": "et002",
         "title": "Vintage Easter Studio Portrait – Retro Glam",
         "description": "A photorealistic vintage inspired Easter studio portrait featuring soft pastel tones, 1950s styling, and elegant retro charm with a clean editorial aesthetic.",
@@ -227,34 +255,6 @@
         "isDaily": false
       },
       {
-        "itemId": "et003",
-        "title": "Enchanted Forest Easter Portrait – Golden Hour",
-        "description": "A dreamy, photorealistic Easter portrait set in a magical forest with golden sunlight, lush greenery, and playful storytelling composition.",
-        "prompt": "Use the uploaded selfie as the ONLY identity reference for the subject. Preserve exact facial features, proportions, skin tone, and recognizable likeness. Hair color, length, texture, and style must match the reference exactly with no changes. Scene: lush enchanted forest floor with dense green grass, scattered white, pink, and yellow wildflowers, and small pink spring flowers. Background softly blurred with tall trees and golden sunlight rays filtering through the canopy, creating a warm hazy glow. Pastel Easter eggs (soft pink, pale yellow, mint green) scattered naturally in the grass around the subject. Subject wears a white flowy dress with thin spaghetti straps, light airy fabric spread across the grass, barefoot, with a beige/nude bunny ear headband. Pose: on all fours in a playful crawling position, both hands on the ground, right hand reaching forward toward an Easter egg, arms extended, body leaning forward, knees on the grass, dress draped around legs. Head lifted, face looking forward and slightly up at the camera with a joyful natural smile. Composition: subject fills around 80% of the frame, visible from bunny ears to knees, reaching hand toward the lower center, eggs scattered around, forest background in upper frame, vertical 9:16. Camera at low angle near ground level facing the subject. Lighting: golden hour backlight from behind with visible light rays, soft fill light on the face, rich green tones, warm golden highlights, dreamy fairytale color grade with subtle glow. No text, no logos, no watermark, no distortion, no extra limbs, no blur, no style changes.",
-        "coinUse": 5,
-        "poster": "https://i.ibb.co/tMmbZr8X/et003-compressed.webp",
-        "titleImage": "",
-        "category": "c2",
-        "keywords": "easter, forest, golden hour, portrait, enchanted, spring, eggs, dreamy, fairytale, nature",
-        "isNew": false,
-        "isTrending": false,
-        "isDaily": false
-      },
-      {
-        "itemId": "et004",
-        "title": "Haute Couture Easter Portrait – Lace Bunny Mask",
-        "description": "A high fashion Easter themed studio portrait featuring couture styling, a lace bunny mask, and a soft editorial aesthetic with a luxurious all white palette.",
-        "prompt": "Use the uploaded selfie as the ONLY identity reference for the subject. Preserve exact facial features, proportions, skin tone, and recognizable likeness. Hair color and length must match exactly with no changes. Style hair with natural curls/texture visible around the face and edges, with the bulk loosely pulled back while maintaining original length and texture. Scene: clean minimal studio with a soft neutral light grey seamless backdrop. Subject wears a white structured corset-style satin top with wide shoulder straps and visible boning, paired with long white satin opera gloves with feather trim at the wrists. Accessories include a white floral lace bunny mask covering the upper face with upright lace ears. Pose: medium close-up framing from bunny ears to mid-torso, subject facing camera straight or slight 3/4 angle. One gloved hand holds a small white rabbit close to the chest, the other supports it gently. Head straight, eyes looking directly into the camera through the lace mask with a composed, serene expression. Composition: vertical 9:16, subject centered, shallow depth of field with sharp focus on face and rabbit. Lighting: high-key soft studio lighting, clean bright tones, minimal shadows, modern editorial quality with a white-dominant palette and natural skin warmth. No text, no logos, no watermark, no distortion, no extra limbs, no blur, no color distractions.",
-        "coinUse": 5,
-        "poster": "https://i.ibb.co/p6b4rTWR/et004-compressed.webp",
-        "titleImage": "",
-        "category": "c2",
-        "keywords": "easter, haute couture, fashion, lace, bunny mask, editorial, studio, white, elegant, portrait",
-        "isNew": false,
-        "isTrending": false,
-        "isDaily": false
-      },
-      {
         "itemId": "et006",
         "title": "Vintage Easter Glam Portrait – 1950s Studio",
         "description": "A high fashion vintage Easter studio portrait inspired by 1950s glamour photography, featuring theatrical styling, pastel tones, and a polished editorial aesthetic.",
@@ -269,15 +269,15 @@
         "isDaily": false
       },
       {
-        "itemId": "et007",
-        "title": "Haute Couture Bunny Portrait – Minimal White Editorial",
-        "description": "A modern high fashion Easter portrait with a clean minimalist studio aesthetic, featuring couture styling, a lace bunny mask, and an intimate editorial mood.",
-        "prompt": "Use the uploaded selfie as the ONLY identity reference for the subject. Preserve exact facial features, proportions, skin tone, and recognizable likeness. Hair color and length must match exactly with no changes. Style hair into a sleek low bun at the nape while maintaining original length. Scene: clean minimal studio with a soft neutral light grey seamless background, no props or distractions. Subject wears a white structured corset-style satin top with wide straps and visible boning, paired with long white satin opera gloves with subtle feather trim at the wrists. Accessory: a delicate white floral lace bunny mask covering the upper face with semi-transparent lace bunny ears. Pose: close-up framing from top of ears to mid-chest, body angled slightly right. Both gloved hands gently cradle a white rabbit close to the face. Head tilted slightly downward toward the rabbit as if about to nuzzle it, eyes softly closed or looking down, lips relaxed for a serene intimate expression. Composition: vertical 9:16, subject slightly right of center, rabbit near the left side close to the face, shallow depth of field keeping face and rabbit sharp with blurred background. Lighting: high-key soft studio lighting with key light from front-right and fill from left, minimal shadows, monochromatic white/cream palette with natural skin tones providing contrast, crisp modern editorial quality. No text, no logos, no watermark, no distortion, no extra limbs, no blur, no color elements.",
+        "itemId": "et003",
+        "title": "Enchanted Forest Easter Portrait – Golden Hour",
+        "description": "A dreamy, photorealistic Easter portrait set in a magical forest with golden sunlight, lush greenery, and playful storytelling composition.",
+        "prompt": "Use the uploaded selfie as the ONLY identity reference for the subject. Preserve exact facial features, proportions, skin tone, and recognizable likeness. Hair color, length, texture, and style must match the reference exactly with no changes. Scene: lush enchanted forest floor with dense green grass, scattered white, pink, and yellow wildflowers, and small pink spring flowers. Background softly blurred with tall trees and golden sunlight rays filtering through the canopy, creating a warm hazy glow. Pastel Easter eggs (soft pink, pale yellow, mint green) scattered naturally in the grass around the subject. Subject wears a white flowy dress with thin spaghetti straps, light airy fabric spread across the grass, barefoot, with a beige/nude bunny ear headband. Pose: on all fours in a playful crawling position, both hands on the ground, right hand reaching forward toward an Easter egg, arms extended, body leaning forward, knees on the grass, dress draped around legs. Head lifted, face looking forward and slightly up at the camera with a joyful natural smile. Composition: subject fills around 80% of the frame, visible from bunny ears to knees, reaching hand toward the lower center, eggs scattered around, forest background in upper frame, vertical 9:16. Camera at low angle near ground level facing the subject. Lighting: golden hour backlight from behind with visible light rays, soft fill light on the face, rich green tones, warm golden highlights, dreamy fairytale color grade with subtle glow. No text, no logos, no watermark, no distortion, no extra limbs, no blur, no style changes.",
         "coinUse": 5,
-        "poster": "https://i.ibb.co/G49bWRy9/et007-compressed.webp",
+        "poster": "https://i.ibb.co/tMmbZr8X/et003-compressed.webp",
         "titleImage": "",
         "category": "c2",
-        "keywords": "easter, haute couture, bunny, minimal, white, editorial, lace mask, fashion, portrait, modern",
+        "keywords": "easter, forest, golden hour, portrait, enchanted, spring, eggs, dreamy, fairytale, nature",
         "isNew": false,
         "isTrending": false,
         "isDaily": false
@@ -479,6 +479,20 @@
         "isDaily": false
       },
       {
+        "itemId": "dwt006",
+        "title": "Winter Pet Love Story Collage",
+        "description": "A cinematic three-frame vertical collage capturing a heartwarming winter bond between a person and their dog, blending playful, peaceful, and intimate emotional moments in a snowy forest setting.",
+        "prompt": "Create a three-frame vertical collage (top, middle, bottom) using the uploaded person as the reference — keep their face, hairstyle, and identity unchanged.\nScene: bright snowy path through a pine forest or mountain trail. Soft snowflakes fall gently, sunlight diffused through light clouds. The person interacts affectionately with their pet dog in different poses, creating a warm, cinematic story.\nLighting: natural daylight with soft reflections from snow (~5500 K). Balanced exposure — no harsh shadows, gentle contrast between warm tones of clothing/pet and the cool snow background.\nOutfit & styling:\nCozy chic look: white or cream knit sweater, matching wool coat, pom-pom beanie, scarf, and gloves.\nThe dog's fur dusted with snowflakes for realism.\nFrame composition & variation:\nTop frame: Mid-range candid moment — person lifting the dog slightly toward her face, head tilted back, joyful expression, dog's paw near her shoulder. Framed waist-up, snow softly blurred in foreground.\nMiddle frame: Full-body environmental shot — subject walking or standing in the snowy road, holding or leading the dog, pine trees and falling snow filling the depth. Captures scale and calm atmosphere.\nBottom frame: Tight emotional close-up, the dog on the left and the person on the right side — dog's snout touching her nose or cheek, faces filling the frame, soft eye contact, blurred background, snowflakes catching light between them.\nCamera setup:\nTop: 35 mm medium-shot, handheld feel.\nMiddle: 50 mm wide environmental.\nBottom: 85 mm shallow-depth close-up, cinematic lens blur.\nAesthetic tone: romantic winter warmth — whites, creams, browns, and soft golds against desaturated blue snow. Fine film grain and gentle vignetting for mood depth.\nMood progression:\nTop → playful affection\nMiddle → peaceful companionship\nBottom → intimate emotional bond",
+        "coinUse": 5,
+        "poster": "https://i.ibb.co/JRTv8FN0/dwt006-compressed.webp",
+        "titleImage": "",
+        "category": "c5",
+        "keywords": "winter, pet, dog, love, collage, snow, heartwarming, forest, cinematic, bond",
+        "isNew": false,
+        "isTrending": false,
+        "isDaily": false
+      },
+      {
         "itemId": "dwt002",
         "title": "Luxury Winter Cinematic Collage",
         "description": "A premium three-frame vertical collage capturing a serene winter lakeside story with cinematic realism, soft lighting, and elegant storytelling across close-up, landscape, and interior scenes.",
@@ -530,20 +544,6 @@
         "titleImage": "",
         "category": "c5",
         "keywords": "winter, moonlit, night, collage, snow, cinematic, serene, moonlight, calm, emotional",
-        "isNew": false,
-        "isTrending": false,
-        "isDaily": false
-      },
-      {
-        "itemId": "dwt006",
-        "title": "Winter Pet Love Story Collage",
-        "description": "A cinematic three-frame vertical collage capturing a heartwarming winter bond between a person and their dog, blending playful, peaceful, and intimate emotional moments in a snowy forest setting.",
-        "prompt": "Create a three-frame vertical collage (top, middle, bottom) using the uploaded person as the reference — keep their face, hairstyle, and identity unchanged.\nScene: bright snowy path through a pine forest or mountain trail. Soft snowflakes fall gently, sunlight diffused through light clouds. The person interacts affectionately with their pet dog in different poses, creating a warm, cinematic story.\nLighting: natural daylight with soft reflections from snow (~5500 K). Balanced exposure — no harsh shadows, gentle contrast between warm tones of clothing/pet and the cool snow background.\nOutfit & styling:\nCozy chic look: white or cream knit sweater, matching wool coat, pom-pom beanie, scarf, and gloves.\nThe dog's fur dusted with snowflakes for realism.\nFrame composition & variation:\nTop frame: Mid-range candid moment — person lifting the dog slightly toward her face, head tilted back, joyful expression, dog's paw near her shoulder. Framed waist-up, snow softly blurred in foreground.\nMiddle frame: Full-body environmental shot — subject walking or standing in the snowy road, holding or leading the dog, pine trees and falling snow filling the depth. Captures scale and calm atmosphere.\nBottom frame: Tight emotional close-up, the dog on the left and the person on the right side — dog's snout touching her nose or cheek, faces filling the frame, soft eye contact, blurred background, snowflakes catching light between them.\nCamera setup:\nTop: 35 mm medium-shot, handheld feel.\nMiddle: 50 mm wide environmental.\nBottom: 85 mm shallow-depth close-up, cinematic lens blur.\nAesthetic tone: romantic winter warmth — whites, creams, browns, and soft golds against desaturated blue snow. Fine film grain and gentle vignetting for mood depth.\nMood progression:\nTop → playful affection\nMiddle → peaceful companionship\nBottom → intimate emotional bond",
-        "coinUse": 5,
-        "poster": "https://i.ibb.co/JRTv8FN0/dwt006-compressed.webp",
-        "titleImage": "",
-        "category": "c5",
-        "keywords": "winter, pet, dog, love, collage, snow, heartwarming, forest, cinematic, bond",
         "isNew": false,
         "isTrending": false,
         "isDaily": false
