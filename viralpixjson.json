@@ -540,7 +540,7 @@
         "titleImage": "",
         "category": "c2",
         "keywords": "easter, haute couture, bunny, minimal, white, editorial, lace mask, fashion, portrait, modern",
-        "isNew": false,
+        "isNew": true,
         "isTrending": false,
         "isDaily": false
       },
@@ -625,7 +625,7 @@
         "category": "c2",
         "keywords": "easter, pastel, bunny, fantasy, editorial, whimsical, fashion, portrait, playful, dreamy",
         "isNew": false,
-        "isTrending": false,
+        "isTrending": true,
         "isDaily": false
       },
       {
@@ -667,7 +667,7 @@
         "category": "c7",
         "keywords": "halloween, cosplay, mystery, retro, van, 1960s, costume, vintage, cinematic, portrait",
         "isNew": false,
-        "isTrending": false,
+        "isTrending": true,
         "isDaily": false
       },
       {
@@ -680,7 +680,7 @@
         "titleImage": "",
         "category": "c7",
         "keywords": "halloween, 90s, bunny, party, costume, nostalgic, flash, vintage, portrait, cosplay",
-        "isNew": false,
+        "isNew": true,
         "isTrending": false,
         "isDaily": false
       },
@@ -778,7 +778,7 @@
         "titleImage": "",
         "category": "c8",
         "keywords": "witch, Y2K, cinematic, moonlit, forest, pumpkins, spellbook, gothic, halloween, glamour",
-        "isNew": false,
+        "isNew": true,
         "isTrending": false,
         "isDaily": false
       },
@@ -1142,8 +1142,8 @@
         "titleImage": "",
         "category": "c6",
         "keywords": "rose,field,vogue,fashion,editorial,crimson,red,romantic,flowers,dreamy",
-        "isNew": true,
-        "isTrending": true,
+        "isNew": false,
+        "isTrending": false,
         "isDaily": false
       },
       {
@@ -1213,7 +1213,7 @@
         "category": "c1",
         "keywords": "black,white,noir,portrait,cinematic,dramatic,moody,intense,chiaroscuro,realistic",
         "isNew": true,
-        "isTrending": true,
+        "isTrending": false,
         "isDaily": false
       },
       {
@@ -1227,7 +1227,7 @@
         "category": "c1",
         "keywords": "black,white,horse,noir,editorial,fine art,cinematic,outdoor,moody,fashion",
         "isNew": false,
-        "isTrending": false,
+        "isTrending": true,
         "isDaily": false
       },
       {
@@ -1254,7 +1254,7 @@
         "titleImage": "",
         "category": "c1",
         "keywords": "black,white,studio,portrait,fine art,intense,gaze,minimalist,confident,editorial",
-        "isNew": true,
+        "isNew": false,
         "isTrending": false,
         "isDaily": false
       },
@@ -1269,7 +1269,7 @@
         "category": "c1",
         "keywords": "black,white,urban,noir,brick,portrait,editorial,gritty,industrial,dramatic",
         "isNew": false,
-        "isTrending": false,
+        "isTrending": true,
         "isDaily": false
       },
       {
@@ -1408,7 +1408,7 @@
         "titleImage": "",
         "category": "",
         "keywords": "fashion portrait, striped hat, beach background, editorial style, black turtleneck, minimalist aesthetic, confident pose, cinematic lighting, photorealistic, high detail, luxury fashion, clean composition",
-        "isNew": false,
+        "isNew": true,
         "isTrending": false,
         "isDaily": true
       },
@@ -1450,7 +1450,7 @@
         "titleImage": "",
         "category": "",
         "keywords": "cinema portrait, popcorn, nightlife aesthetic, flash photography, casual luxury, black blazer, denim jeans, lifestyle editorial, playful pose, urban style, photorealistic, modern vibe",
-        "isNew": false,
+        "isNew": true,
         "isTrending": false,
         "isDaily": true
       },
@@ -1632,7 +1632,7 @@
         "titleImage": "",
         "category": "",
         "keywords": "paparazzi style, car interior, flash photography, red dress, fur coat, nightlife portrait, candid emotion, cinematic lighting, luxury aesthetic, editorial fashion, photorealistic, high contrast",
-        "isNew": false,
+        "isNew": true,
         "isTrending": false,
         "isDaily": true
       },
@@ -1717,7 +1717,7 @@
         "category": "",
         "keywords": "beach portrait, sunset lighting, summer dress, romantic aesthetic, editorial photography, warm tones, seaside dinner, cinematic glow, elegant pose, photorealistic, lifestyle fashion, evening vibe",
         "isNew": false,
-        "isTrending": false,
+        "isTrending": true,
         "isDaily": true
       },
       {
@@ -1899,7 +1899,7 @@
         "category": "",
         "keywords": "luxury portrait, editorial fashion, red dress, siren aesthetic, vanity setting, cinematic lighting, high fashion, photorealistic, glamorous mood, opulent interior, refined style, ultra detail",
         "isNew": false,
-        "isTrending": false,
+        "isTrending": true,
         "isDaily": true
       },
       {
@@ -1954,7 +1954,7 @@
         "titleImage": "",
         "category": "",
         "keywords": "fashion portrait, g wagon, sunset sky, bridge scene, urban skyline, street style, cinematic lighting, editorial photography, casual outfit, photorealistic, high detail, modern aesthetic",
-        "isNew": false,
+        "isNew": true,
         "isTrending": false,
         "isDaily": true
       },
