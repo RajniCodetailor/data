@@ -2172,43 +2172,163 @@
     "carousel": [
       {
         "itemId": "crsl001",
-        "poster": "https://i.ibb.co/mr7vqsW6/crsl001-compressed.webp",
-        "title": "Romantic Tropical Sunset Portrait",
-        "titleImage": "https://i.ibb.co/B5XzXbrs/Romantic-Sunset-2.png",
-        "description": "A high resolution romantic tropical portrait of a woman sitting gracefully on a palm tree trunk at golden sunset, wearing a coral pink mini dress with a serene and confident expression.",
-        "prompt": "Identity lock (must-follow): Use my uploaded person as the only face & hair reference. Do not change identity, facial geometry, skin tone, or hair color. Create a high-resolution romantic tropical portrait of the subject sitting gracefully on a palm tree trunk along the beach at golden sunset. The pose is relaxed and elegant, with the legs angled gently to one side. The subject wears a silky coral-pink mini dress with thin straps. A soft yellow flower is tucked behind one ear. Hair must match the reference identity—long, flowing naturally over one shoulder with a soft, warm glow from the sunset. The sky is illuminated with warm orange and pink tones, and gentle waves form a softly blurred background. The subject gazes toward the camera with a calm, confident, and serene expression. Cinematic lighting, warm tones, and a refined tropical sunset atmosphere.",
+        "poster": "https://i.ibb.co/LDvzLRTF/crsl-001-compressed.webp",
+        "title": "Alpine Elegance",
+        "titleImage": "https://i.ibb.co/kgm75YdJ/fnt-001-compressed.webp",
+        "description": "A sophisticated man enjoying a luxurious alpine lifestyle in a serene snowy mountain setting.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a stylish man sitting at an outdoor wooden table in a luxury alpine mountain setting, snow-covered peaks and cozy wooden chalets in the background, bright natural daylight with crisp winter air, wearing a camel-colored tailored coat over a beige turtleneck sweater, black sunglasses, and a classic wristwatch, holding a glass of white wine in one hand, a bowl of hot soup on the table with visible steam, relaxed confident posture, body slightly angled, looking away from the camera with a calm sophisticated expression, clean grooming and neatly styled hair, cinematic composition, shallow depth of field, ultra-realistic, high detail, premium lifestyle aesthetic",
         "coinUse": 5,
-        "category": "romantic"
+        "category": "lifestyle"
       },
       {
         "itemId": "crsl002",
-        "poster": "https://i.ibb.co/SD6GKw5H/crsl002-compressed.webp",
-        "title": "Quiet Luxury Historic Portrait",
-        "titleImage": "",
-        "description": "A refined, photorealistic portrait of a woman seated on a stone bench in a historic cobblestone square, styled in a crisp white shirt and beige tailored trousers, capturing a timeless quiet luxury aesthetic.",
-        "prompt": "Use the uploaded reference person as the ONLY identity source. Preserve exact facial geometry, skin tone, hairline, hairstyle, age, body proportions, and natural expression with zero identity drift. No beautification, no reshaping, no age or gender change—the person must remain clearly recognizable. Create a photorealistic, ultra-HD portrait of the reference woman seated on a stone bench in a historic cobblestone square, captured from mid-thigh up. She wears a perfectly tailored white cotton shirt with a crisp collar and rolled cuffs, paired with high-waisted light-beige trousers secured by a discreet black leather belt. A structured burgundy leather handbag rests at her side. She sits at a slight angle to the camera with legs crossed at the ankle, one hand lightly touching the bag and the other resting on the bench, her posture relaxed yet impeccably poised. Soft late-afternoon sunlight creates gentle highlights on her face and fabrics, with subtle shadows in the stone and cobbles. The historic façade and square behind her melt into creamy bokeh with shallow depth of field, delivering a timeless, refined quiet luxury mood focused on restraint and craftsmanship.",
+        "poster": "https://i.ibb.co/p6Tv9163/crsl-002-compressed.webp",
+        "title": "Luxe Billiard Mood",
+        "titleImage": "https://i.ibb.co/NnTQHRs3/fnt-002-compressed.webp",
+        "description": "A glamorous woman in a luxurious billiards lounge, captured in a bold and cinematic fashion moment.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a glamorous woman in a luxury billiards lounge, sitting sideways on a bar stool near a pool table, holding a cue stick vertically with one hand, other hand resting on her thigh, body slightly leaned forward, intense direct eye contact with a confident expression, wearing a fitted black lace dress with long black satin gloves, styled red hair flowing over shoulders, warm moody lighting with soft highlights and shadows, vintage wooden interior with green pool table and hanging lamp in the background, shallow depth of field, ultra-realistic, high detail, cinematic composition, editorial fashion photography",
         "coinUse": 5,
-        "category": "luxury"
+        "category": "fashion"
       },
       {
         "itemId": "crsl003",
-        "poster": "https://i.ibb.co/CKr7s7T3/crsl003-compressed.webp",
-        "title": "Luxury Fine Dining Portrait",
-        "titleImage": "",
-        "description": "A cinematic fine dining portrait of a man in a burgundy velvet tuxedo, captured in an elegant restaurant with warm lighting and a refined luxury atmosphere.",
-        "prompt": "🔐 IDENTITY LOCK — STRICT (MUST FOLLOW) Use the uploaded man as the ONLY identity reference. Preserve exact facial features, facial geometry, skin tone, age, hair color, hair length, hairstyle, and any facial hair with zero identity drift. No beautification, no face reshaping, no smoothing or glam retouch, no age or expression exaggeration. Natural skin texture, realistic proportions, and authentic facial detail are REQUIRED. The subject must remain fully recognizable and realistic. 🍽️ SCENE — UPSCALE FINE DINING (CINEMATIC) Create a cinematic, photorealistic fine-dining portrait set in an elegant, upscale restaurant during the evening. The man is seated at a dining table, framed from the chest or waist up. A gourmet dinner plate and a glass of red wine are placed naturally in front of him on the table. The background features softly blurred restaurant elements—other diners, table lamps, and ambient glow—creating depth without distraction. 🤵 WARDROBE — LUXURY BLACK-TIE EVENINGWEAR The man wears a deep burgundy velvet dinner jacket with rich texture, black satin lapels, a crisp white dress shirt, and a classic black bow tie. 🧍 POSE & BODY LANGUAGE — RELAXED CONFIDENCE He leans slightly forward with relaxed posture, angled subtly, conveying ease and confidence. 😐 EXPRESSION & GAZE Calm, self-assured expression with a subtle smile, gaze directed slightly off-camera. 💡 LIGHTING — WARM & ELEGANT Golden ambient lighting with cinematic shadows and soft highlights enhancing fabric textures and facial depth. 📸 STYLE & QUALITY Ultra-photorealistic, high-resolution cinematic photography, luxury editorial aesthetic.",
+        "poster": "https://i.ibb.co/prM1pcMX/crsl-003-compressed.webp",
+        "title": "Sunset Serenity",
+        "titleImage": "https://i.ibb.co/bg7KFzjJ/fnt-003-compressed.webp",
+        "description": "A dreamy tropical beach moment capturing a serene woman basking in the warm glow of a golden sunset.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a young woman sitting on a curved palm tree trunk at a tropical beach during golden hour sunset, warm orange and pink sky reflecting on calm ocean waves, body slightly angled, one hand resting on the tree trunk for support, other hand gently placed on her thigh, legs relaxed and slightly crossed, shoulders soft, head slightly tilted, looking at the camera with a calm gentle smile, wearing a silky coral-pink slip dress, minimal jewelry, a tropical flower tucked behind her ear, hair naturally flowing with a soft breeze, warm glowing sunlight illuminating her skin, shallow depth of field, ultra-realistic, high detail, cinematic composition, dreamy aesthetic",
         "coinUse": 5,
-        "category": "luxury"
+        "category": "lifestyle"
       },
       {
         "itemId": "crsl004",
-        "poster": "https://i.ibb.co/TQ34Zvg/crsl004-compressed.webp",
-        "title": "Urban Luxury Lamborghini Portrait",
-        "titleImage": "",
-        "description": "A cinematic fashion portrait of a confident woman leaning against a black Lamborghini Aventador in an underground parking space, styled with a powerful and modern luxury aesthetic.",
-        "prompt": "Use the uploaded selfie to preserve the subject’s exact face, hair color, and skin tone. No identity changes, no beautification, no reshaping—maintain full realism and recognizability. Create a cinematic fashion portrait of her leaning against a black Lamborghini Aventador inside a modern underground parking structure with graffiti-covered walls and pools of soft reflected light on the car. Wardrobe: Tailored black blazer, fitted trousers, and a minimalist bralette top for an empowered, sensual business look. Pose: One hand resting on the hood, one leg slightly bent, chin tilted up with confident calm. Lighting: Directional key light from front-left, crisp reflections on the car paint, subtle rim light from overhead fluorescents. Mood: Sharp, urban luxury with cool contrast and smooth metallic tones emphasizing power and composure.",
+        "poster": "https://i.ibb.co/YF5BQLBZ/crsl-004-compressed.webp",
+        "title": "Dinner Glow",
+        "titleImage": "https://i.ibb.co/RkWzZbnD/fnt-004-compressed.webp",
+        "description": "An elegant evening dining scene capturing a woman glowing under warm candlelight in a luxurious restaurant setting.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of an elegant young woman sitting at a fine dining restaurant table at night, warm ambient lighting with soft candlelight creating a golden glow, blurred background with people and bokeh lights, holding a glass of white wine slightly raised in one hand as if making a toast, other arm resting gently on the table, body facing forward, relaxed posture, direct eye contact with a warm confident smile, wearing a deep red sleeveless evening dress with a soft neckline, styled blonde hair falling naturally over shoulders, minimal jewelry, soft makeup with glowing skin, shallow depth of field, ultra-realistic, high detail, cinematic composition, luxury lifestyle aesthetic",
         "coinUse": 5,
-        "category": "luxury"
+        "category": "lifestyle"
+      },
+      {
+        "itemId": "crsl005",
+        "poster": "https://i.ibb.co/YF5BQLBZ/crsl-004-compressed.webp",
+        "title": "Dark Halloween",
+        "titleImage": "https://i.ibb.co/wN4dp94Y/fnt-005-compressed.webp",
+        "description": "A bold and cinematic Halloween scene featuring a stylish man surrounded by glowing pumpkins and moody lighting.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a stylish man sitting on a large carved glowing pumpkin in a dark moody studio setting, soft fog surrounding the scene, scattered dry autumn leaves on the floor, small candles glowing around him, holding a small jack-o’-lantern bucket in one hand, other hand resting on his knee, legs apart in a confident seated pose, body facing forward, direct intense eye contact with a calm serious expression, wearing a black leather jacket over a rust-colored turtleneck, black pants and boots, rings and minimal accessories, dramatic low-key lighting with orange glow from pumpkins and cool blue shadows in the background, ultra-realistic, high detail, cinematic composition, Halloween aesthetic",
+        "coinUse": 5,
+        "category": "festival"
+      },
+      {
+        "itemId": "crsl006",
+        "poster": "https://i.ibb.co/YF5BQLBZ/crsl-004-compressed.webp",
+        "title": "Equestrian Grace",
+        "titleImage": "https://i.ibb.co/jZGjvHvn/fnt-006-compressed.webp",
+        "description": "A refined and timeless countryside portrait of a confident woman riding a majestic white horse.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a confident woman sitting upright on a white horse in a countryside setting, soft overcast natural lighting, blurred green fields and rolling hills in the background, wooden fence visible, calm rural atmosphere, elegant posture with both hands holding the reins, body facing forward, composed expression with soft eye contact toward the camera, wearing a classic equestrian outfit including a dark tailored blazer with crest detail, beige vest, white shirt, fitted riding pants, and tall brown leather boots, horse well-groomed with saddle and bridle, ultra-realistic, high detail, shallow depth of field, cinematic composition, refined and timeless aesthetic",
+        "coinUse": 5,
+        "category": "lifestyle"
+      },
+      {
+        "itemId": "crsl007",
+        "poster": "https://i.ibb.co/Lh0TKXH9/crsl-007-compressed.webp",
+        "title": "Coastal Elegance",
+        "titleImage": "https://i.ibb.co/VYPkyHpK/fnt-007-compressed.webp",
+        "description": "A serene seaside terrace scene capturing an elegant woman enjoying a luxurious coastal lifestyle.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of an elegant woman sitting at a wooden table on a luxury seaside terrace, clear blue ocean in the background with yachts and sailboats softly blurred, bright natural daylight with soft shadows, body facing slightly sideways, legs crossed gracefully, one hand resting on the table holding a teacup, other hand relaxed on her lap, calm confident expression looking slightly away from the camera, wearing a minimal white wrap dress with soft fabric flow, natural makeup, styled hair gently flowing, minimal jewelry, a teapot and dessert plate on the table, classic stone balcony railing, ultra-realistic, high detail, shallow depth of field, cinematic composition, premium lifestyle aesthetic",
+        "coinUse": 5,
+        "category": "lifestyle"
+      },
+      {
+        "itemId": "crsl008",
+        "poster": "https://i.ibb.co/nMWRc49f/crsl-008-compressed.webp",
+        "title": "Night Luxe",
+        "titleImage": "https://i.ibb.co/0Vm3R94s/fnt-008-compressed.webp",
+        "description": "A glamorous nightlife scene capturing a confident woman enjoying luxury inside a limousine with neon city vibes.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a glamorous woman sitting inside a luxury limousine at night, neon red ambient lighting reflecting across the interior, blurred city lights passing outside the windows creating motion streaks, seated on a black leather seat with legs crossed, one hand holding a champagne glass, other hand casually resting behind her head, relaxed confident posture, direct eye contact with a soft stylish smile, wearing a fitted black mini dress, long wavy hair styled neatly, minimal jewelry, a champagne bottle in an ice bucket glowing with soft light beside her, ultra-realistic, high detail, shallow depth of field, cinematic composition, premium nightlife aesthetic",
+        "coinUse": 5,
+        "category": "lifestyle"
+      },
+      {
+        "itemId": "crsl009",
+        "poster": "https://i.ibb.co/fd6BtSvP/crsl-009-compressed.webp",
+        "title": "Fit Glow",
+        "titleImage": "https://i.ibb.co/Rph9LXx2/fnt-009-compressed.webp",
+        "description": "A vibrant fitness scene capturing a confident woman glowing with strength and energy in a modern gym setting.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a fit young woman in a modern gym, warm sunlight streaming through large windows creating soft highlights and shadows, body slightly turned sideways, one hand placed on her waist, the other hand holding a dumbbell in a controlled curl position, toned arms visible, looking back toward the camera with a confident soft smile, wearing a neon green sports bra and high-waisted floral workout leggings, hair tied back in a sleek ponytail, minimal makeup with natural glow, gym equipment softly blurred in the background, shallow depth of field, ultra-realistic, high detail, cinematic composition, fitness lifestyle aesthetic",
+        "coinUse": 5,
+        "category": "fitness"
+      },
+      {
+        "itemId": "crsl010",
+        "poster": "https://i.ibb.co/Q7yTzpmF/crsl-010-compressed.webp",
+        "title": "Soft Luxury",
+        "titleImage": "https://i.ibb.co/r2Mpd8gC/fnt-010-compressed.webp",
+        "description": "A refined luxury apartment scene capturing a stylish woman embracing soft elegance and modern living.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a stylish woman taking a mirror selfie while sitting on a modern white sofa in a luxury apartment, large floor-to-ceiling windows with a city skyline view in the background, bright natural daylight filling the room, soft neutral interior tones, body slightly angled, one hand holding a smartphone capturing the selfie, other arm relaxed, a bouquet of soft pink roses resting on her lap, legs elegantly positioned to the side, relaxed confident expression with a subtle soft smile, wearing a strapless cream top and pastel pink pants, styled wavy blonde hair, minimal jewelry, clean makeup with glowing skin, ultra-realistic, high detail, shallow depth of field, cinematic composition, premium lifestyle aesthetic",
+        "coinUse": 5,
+        "category": "lifestyle"
+      },
+      {
+        "itemId": "crsl011",
+        "poster": "https://i.ibb.co/RTzv8g5L/crsl-011-compressed.webp",
+        "title": "Autumn Cozy",
+        "titleImage": "https://i.ibb.co/xqxVXR6f/fnt-011-compressed.webp",
+        "description": "A warm and cozy autumn scene capturing a relaxed woman enjoying a peaceful pumpkin patch during golden hour.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a young woman sitting cross-legged on stacked hay bales in a pumpkin patch during golden hour, warm sunlight casting a soft glow across a wide open field, multiple pumpkins placed around her, rustic countryside background slightly blurred, relaxed posture with hands gently holding a small pumpkin in her lap, body facing forward, head slightly tilted, soft natural smile, wearing a cozy cream knit sweater, light blue jeans, and tan ankle boots, hair softly styled with natural waves, minimal makeup, warm autumn color palette, ultra-realistic, high detail, shallow depth of field, cinematic composition, cozy seasonal aesthetic",
+        "coinUse": 5,
+        "category": "seasonal"
+      },
+      {
+        "itemId": "crsl012",
+        "poster": "https://i.ibb.co/yc3tQS5s/crsl-012-compressed.webp",
+        "title": "City Elegance",
+        "titleImage": "https://i.ibb.co/ntSGqZC/fnt-012-compressed.webp",
+        "description": "A sophisticated urban fashion scene capturing a stylish woman walking through a luxurious European-style street.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a stylish woman walking in a luxury European-style street setting, elegant architecture with warm glowing lights in the background, wet pavement reflecting soft golden tones, body slightly angled, one hand holding a structured designer handbag, other hand lightly adjusting her coat, confident walking posture, looking slightly to the side with a calm sophisticated expression, wearing a beige long tailored coat over a neutral turtleneck and matching trousers, oversized sunglasses, minimal gold jewelry, soft wavy blonde hair, shallow depth of field with bokeh lights, ultra-realistic, high detail, cinematic composition, high-fashion editorial aesthetic",
+        "coinUse": 5,
+        "category": "fashion"
+      },
+      {
+        "itemId": "crsl013",
+        "poster": "https://i.ibb.co/bwgQRSd/crsl-013-compressed.webp",
+        "title": "Tropical Night",
+        "titleImage": "https://i.ibb.co/8nDMMg3f/fnt-013-compressed.webp",
+        "description": "A dreamy tropical evening scene capturing a relaxed woman enjoying a peaceful beachside night under glowing lights.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a relaxed woman sitting on a wooden beach chair at a tropical beach during blue hour evening, soft ambient lighting with warm string lights hanging between palm trees, tiki torches glowing around, calm ocean and deep blue sky in the background, body slightly reclined, one hand holding a cocktail glass, other hand resting casually on her lap, legs relaxed and slightly angled, looking toward the camera with a soft confident smile, wearing a light pastel off-shoulder top and neutral shorts, natural makeup with glowing skin, long wavy hair flowing naturally, shallow depth of field with bokeh lights, ultra-realistic, high detail, cinematic composition, dreamy vacation aesthetic",
+        "coinUse": 5,
+        "category": "lifestyle"
+      },
+      {
+        "itemId": "crsl014",
+        "poster": "https://i.ibb.co/4n40v1Lj/crsl-014-compressed.webp",
+        "title": "Coastal Calm",
+        "titleImage": "https://i.ibb.co/7tXFbcZD/fnt-014-compressed.webp",
+        "description": "A serene beachside moment capturing a confident man enjoying the calm and warmth of a golden sunset.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a young man sitting on a sandy beach during golden hour sunset, soft warm light reflecting off the ocean, calm waves and horizon in the background, body slightly turned sideways, one knee bent with arms resting casually over it, relaxed posture, looking directly at the camera with a calm confident expression, wearing a navy blue button-up shirt and light beige trousers, natural grooming and styled hair, soft shadows and warm tones, shallow depth of field, ultra-realistic, high detail, cinematic composition, minimal and elegant lifestyle aesthetic",
+        "coinUse": 5,
+        "category": "lifestyle"
+      },
+      {
+        "itemId": "crsl015",
+        "poster": "https://i.ibb.co/B5PL0JYt/crsl-015-compressed.webp",
+        "title": "Sunset Drive",
+        "titleImage": "https://i.ibb.co/MyRwjtCZ/fnt-015-compressed.webp",
+        "description": "A luxurious coastal moment capturing a stylish woman enjoying a sunset drive with elegance and confidence.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a stylish woman sitting on the edge of a red convertible car parked along a coastal road during golden hour sunset, warm sunlight creating lens flares and soft highlights, ocean and rocky shoreline in the background, body slightly turned away with upper body twisted back toward the camera, one hand resting on the car door, one leg bent on the seat and the other relaxed downward, confident relaxed posture, looking at the camera with a soft bold expression, wearing a white satin camisole top and beige tailored trousers, minimal gold jewelry, wind-blown hair flowing naturally, ultra-realistic, high detail, shallow depth of field, cinematic composition, luxury lifestyle aesthetic",
+        "coinUse": 5,
+        "category": "lifestyle"
+      },
+      {
+        "itemId": "crsl016",
+        "poster": "https://i.ibb.co/kV5tzsWw/crsl-016-compressed.webp",
+        "title": "Sunrise Balance",
+        "titleImage": "https://i.ibb.co/ycr4bCCz/fnt-016-compressed.webp",
+        "description": "A peaceful sunrise beach scene capturing a woman in perfect balance during a calming yoga session.",
+        "prompt": "Vertical cinematic portrait (9:16 aspect ratio) of a fit young woman practicing yoga on a sandy beach during sunrise, warm golden sunlight reflecting on gentle ocean waves, soft clouds in the sky, body centered in frame, standing in tree pose (one foot placed on the inner thigh of the opposite leg), hands pressed together in a prayer position at chest level, upright balanced posture, calm and peaceful expression with a soft smile, wearing a coral sports bra and light beige high-waisted leggings, barefoot on sand with natural footprints visible, hair flowing gently in the breeze, ultra-realistic, high detail, shallow depth of field, cinematic composition, serene wellness aesthetic",
+        "coinUse": 5,
+        "category": "fitness"
       }
     ]
   }
